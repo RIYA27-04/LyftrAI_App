@@ -1,0 +1,1 @@
+fastapi==0.115.12\nuvicorn[standard]==0.34.2\nSQLAlchemy==2.0.40\nlitellm==1.72.6\npytest==8.3.5\nhttpx==0.28.1\n
